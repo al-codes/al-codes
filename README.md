@@ -1,7 +1,7 @@
 ### Hi, I'm Alex 👋
-Hackbright Academy Alum 📚
+Hackbright Academy student 📚
 
-Former Acupuncturist and Herbalist with a background in Chemistry 👩🏻‍🔬🌿
+Former acupuncturist and herbalist with a background in science 👩🏻‍🔬🌿
 
 Looking to start my career as a software engineer 👩🏻‍💻
 
