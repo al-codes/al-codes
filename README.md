@@ -1,11 +1,9 @@
-### Hi, I'm Alex 👋
-Hackbright Academy student 📚
+### <h1>Hi, I'm Alex 👋 </h1>
+I'm currently a Hackbright Academy student 📚 <br>
 
-Former acupuncturist and herbalist with a background in science 👩🏻‍🔬🌿
+Formerly an acupuncturist with a background in science 👩🏻‍🔬🌿
 
-Friendly, Positive, Determined 
-
-Check me out and say hi on <a href="https://www.linkedin.com/in/alexlpsanchez/">LinkedIn</a>! ⬅️
+Let's connect on <a href="https://www.linkedin.com/in/alexlpsanchez/">LinkedIn</a>! ⬅️
 
 
 
